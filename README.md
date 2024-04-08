@@ -7,7 +7,7 @@ I have written a program using which you can order fruit.
 * Enhance Go skills and learnings by building project.
 
 # Overview
-Want to order food!? Well, you have come to the right place(not exactly :P).
+Want to order fruit!? Well, you have come to the right place(not exactly :P).
 
 This is a program which will help you order fruit in a fruit center named "Fresh Fruits".
 
