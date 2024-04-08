@@ -27,6 +27,7 @@ You can order any item that is there in the menu, and as many times as you want.
 
 # Sneak peek
 Here are some screenshots of the program in running.
+
 ![image](https://github.com/Syed-Ehsan/Order-Fruit/assets/67308774/f0e233c8-9ae5-4806-8a8d-8ce09b9a39e1)
 ![image](https://github.com/Syed-Ehsan/Order-Fruit/assets/67308774/2b9cecfa-1dfb-4d9b-8fec-4862b4c9d4c6)
 ![image](https://github.com/Syed-Ehsan/Order-Fruit/assets/67308774/6e7af882-14a2-4c12-a045-2e40c4e4f91c)
